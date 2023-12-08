@@ -32,6 +32,6 @@ Online images
 Local Image
 
 
-![Picture](images/pic1.png)
+![Picture](images/pic1.png "FINTECH PIC")
 
 
