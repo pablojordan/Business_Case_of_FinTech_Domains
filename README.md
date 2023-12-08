@@ -19,8 +19,8 @@
 print("Hello world")
 ```
 
-**[data](data)
+*[data](data)
 
-**[images](images)
+*[images](images)
 
-**[resources](resources)
+*[resources](resources)
