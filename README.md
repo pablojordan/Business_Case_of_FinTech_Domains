@@ -27,11 +27,12 @@ print("Hello world")
 
 
 Online images
-![Alt text](https://www.url.com)
-
-Local Image
+![This a sample picture](https://www.url.com)
 
 
-![Picture](images/pic1.png "FINTECH PIC")
+
+### Local IMAGE FINTECH ###
+
+![FINTECH](images/pic1.png)
 
 
