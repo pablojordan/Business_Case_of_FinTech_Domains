@@ -2,16 +2,8 @@
 
 ### This is a test file, and I will upload this file to GitHub, manually
 
+Answer all the questions. 
 
-
-
-Now, let's do this the right way as Analyst, let upload using the following commands
-
-git add .
-git commit -m "enter short message"
+git add . 
+git commit -m "sample message"
 git push
-
-
-
-we talk about this later.
-git pull
