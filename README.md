@@ -30,6 +30,8 @@ Online images
 ![Alt text](https://www.url.com)
 
 Local Image
-![Alt text](images/pic1.png)
+
+
+![Picture](images/pic1.png)
 
 
